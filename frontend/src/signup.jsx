@@ -26,7 +26,7 @@ export default function Signup() {
     <div className="flex min-h-screen w-screen items-center justify-center font-sans bg-gray-50">
       <div className="bg-white p-8 rounded-xl shadow-lg w-full max-w-md">
         <h1 className="text-center text-xl font-bold text-gray-800 mb-6">
-          Welcome! Create your account
+          Create your account
         </h1>
 
         <form onSubmit={handleSubmit} className="flex flex-col gap-4">
